@@ -1,0 +1,41 @@
+# 🕌 Quiz Islam
+
+Quiz interactif en **JavaScript vanilla** permettant de tester ses connaissances de base sur l'Islam, à travers une série de questions à choix multiples avec correction automatique.
+
+## ✨ Fonctionnalités
+
+- Série de questions à choix multiples (vrai/faux et choix multiples)
+- Vérification automatique de la réponse sélectionnée
+- Affichage dynamique des questions sans rechargement de page
+- Structure de données séparée du code logique (questions stockées indépendamment)
+
+## 🛠️ Technologies utilisées
+
+- **HTML5** — structure de l'interface
+- **CSS3** — mise en forme et design
+- **JavaScript** — logique du quiz et manipulation du DOM (sans framework)
+- Utilisation des **modules JavaScript** (`export`/`import`) pour séparer les données des questions de la logique de l'application
+
+## 🚀 Utilisation
+
+1. Clonez le dépôt :
+   ```
+   git clone https://github.com/contact94ouattara-png/quiz-islam.git
+   ```
+2. Ouvrez le fichier `quiz-Islam.html` dans votre navigateur.
+3. Répondez aux questions et découvrez votre score.
+
+## 📌 Concepts mis en pratique
+
+- Organisation du code en modules (séparation données / logique)
+- Manipulation du DOM et gestion d'événements
+- Logique conditionnelle pour la vérification des réponses
+- Gestion d'état (question courante, score)
+
+## 👤 Auteur
+
+**Landé Souleymane OUATTARA**
+Étudiant en Licence 2 — Digitalisation des Services
+
+---
+*Projet réalisé dans le cadre de mon apprentissage du JavaScript.*
